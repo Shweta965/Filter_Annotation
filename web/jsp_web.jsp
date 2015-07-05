@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+       
         <form name="blackboard" action="fake_url" method="POST">
             enter username:   <input type="text" name="username" value="" />
             enter password:  <input type="password" name="password" value="" />
